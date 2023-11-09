@@ -26,9 +26,7 @@ End the Program.
 
 
 ## Program:
-Developed by : KAVIYA SHREE S
 
-Register number : 212222110018
 
 ```
 using System;
